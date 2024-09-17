@@ -1,0 +1,2 @@
+# Attendance-system-using-face-recogntion
+Attendance management system is a necessary tool for taking attendance in any environment where attendance is critical. However, most of the existing approach are time consuming, intrusive and it require manual work from the users. This research is aimed at developing a less intrusive, cost effective and more efficient automated student attendance management system using face recognition.
